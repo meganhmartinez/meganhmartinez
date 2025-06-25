@@ -6,8 +6,8 @@ I am a final year theoretical physics student in Trinity College Dublin interste
 
 ### Connect with me:
 <a href="www.linkedin.com/in/megan-h-martinez-070239239">
-   <img align="centre" alt="linkedin" width="30px" style="padding-right:10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+<img align="centre" alt="linkedin" width="30px" style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
 
 ---
 ### Languages:
